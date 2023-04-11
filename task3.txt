@@ -1,0 +1,23 @@
+touch
+echo
+mkdir
+rmdir
+rm -rf *
+whoiami
+cd
+useradd
+userdel
+cat
+getent group
+ls
+ls -lart
+grep
+head
+tail
+tar -zcvf filename.tar.gz
+sudo
+chmod
+chown
+mv
+vi
+ping
