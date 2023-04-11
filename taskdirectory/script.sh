@@ -1,6 +1,6 @@
-echo"enter the value of var1"
+echo "enter the value of var1"
 read var1
-echo"enter the value of var2"
+echo "enter the value of var2"
 read var2
 if [ $var1 == $var2 ]
 then
